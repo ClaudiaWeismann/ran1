@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,ol,li{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background: url(../img/bgi.jpg) repeat center center;
+}
+input{
+	border: 0;
+}
+body{
+	background-color: #fefefe;
+}
+.t1{
+	color: #999999;
+	font-size: 30px;
+	line-height: 40px;
+	font-family: "書體坊顏體㊣";
+}
+.t2{
+	color: red;
+	font-size: 50px;
+	font-family: "方正舒体";
+}
+.t3{
+	color: #999999;
+	font-size: 20px;
+	font-family: "書體坊顏體㊣";
+}
+li{
+	padding: 50px;
+}
+.zhuzhu{
+	padding: 10px;
+}
